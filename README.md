@@ -1,1 +1,1 @@
-# Interactive particles text create for Paradox Jewels with three.js 
+# Interactive particles text create for Infinity∞Edu with three.js 
